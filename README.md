@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arseniyyy
 - 👀 I’m interested in artificial intelligence and Python language
 - 🌱 I’m currently learning tensorflow
-- 💞️ I’m looking to collaborate on the eyecar (https://avt.global/) development
+- 💞️ I’m looking to collaborate on the eyecar (https://avt.global/) development with my classmates
 - 📫 How to reach me: arskosh05@mail.ru

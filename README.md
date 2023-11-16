@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Arseny Koshelnik
-- 👀 I’m interested in artificial intelligence, Raspberry Pi development and web-development, but I'm more curious about Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: https://t.me/iamarseny
+Django-rest 🚀 and Docker ❤️‍🔥

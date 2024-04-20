@@ -1,1 +1,1 @@
-Django-rest 🚀 and Docker ❤️‍🔥
+Spring 🚀 and Docker ❤️‍🔥

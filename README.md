@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Arseniy</h1>  
 <h3 align="center">A passionate backend developer from Russia</h3>  
   
-- 🔭 I’m currently working on [applang-spring-video](https://github.com/Arseniyyy/applang-spring-video)  
-  
 - 👨‍💻 All of my projects are available [here](https://docs.google.com/document/d/1i0T_SIdm0GCeXyVeD14YdioRVzN2LduBj-gNMLV336E/edit?usp=sharing)  
   
 - 💬 Ask me about **Spring 🚀 and Docker ❤️‍🔥**  

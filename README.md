@@ -1,7 +1,7 @@
 <h1 align="center">Арсений</h1>  
 <h3 align="center">Разработчик из России</h3>  
 
-- [Java резюме](https://1drv.ms/w/c/53f47a824dacf7c9/EX7B9t9k8IRKs7kCxfCADvUB4i1hN1_byySQ428q4fxEHA?e=Oxbdfu)
+- [Java резюме](https://1drv.ms/w/c/53f47a824dacf7c9/EX7B9t9k8IRKs7kCxfCADvUB4i1hN1_byySQ428q4fxEHA)
 - [DevOps резюме](https://1drv.ms/w/c/53f47a824dacf7c9/ESQsABKH_ydPrgOnS06ELdEB2HvdvnJRaM_IMKHm5VFFVQ?e=KhuluO)
   
 - **Spring 🚀 and Docker ❤️‍🔥**  
